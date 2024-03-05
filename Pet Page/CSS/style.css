@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, Helvetica, sans-serifH;
+}
+
+nav{
+    background-color: lightgray;
+}
+
+
+nav ul li {
+    background-color: darkslategray;
+    display: inline-block;
+    padding: 20px 40px;
+    color: white;
+}
+
+ul{
+    padding-inline-start: 0px;
+}
+
+.bio{
+    background-color: coral;
+    width: 68%;
+    float: left;
+}
+
+.story {
+    background-color: azure;
+    float: left;
+    width: 68%;
+    padding-left: 2%;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 24px;
+    font-weight: 700;
+}
+
+.stats {
+    background-color: lightpink;
+    padding-left: 40px;
+    padding-top: 24px;
+}
+
+.statslist {
+    list-style-type: none;
+}
+
